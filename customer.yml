@@ -2,4 +2,4 @@ config:
   name: jack wo
 env: default
 phone:
-  type: vivo
+  type: zhongXing 
